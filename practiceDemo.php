@@ -115,6 +115,7 @@
                                 <li class="sidemenu-items"><a href="practice.php">practice</a></li>
                                 <li class="sidemenu-items"><a href="placement.php">placement</a></li>
                                 <li class="sidemenu-items"><a href="blog.php">blog</a></li>
+                                <li class="sidemenu-items"><a href="contact.php">contact</a></li>
                             </ul>
                         </div>
                     </div>

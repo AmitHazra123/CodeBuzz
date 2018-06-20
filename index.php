@@ -115,9 +115,10 @@
                             <ul class="metismenu">
                                 <li class="sidemenu-items"><a href="javascript:void(0)">Home</a></li>
                                 <li class="sidemenu-items"><a href="about.php">about us</a></li>
-                                <li class="sidemenu-items"><a href="practice.php">practice</a>practice</li>
+                                <li class="sidemenu-items"><a href="practice.php">practice</a></li>
                                 <li class="sidemenu-items"><a href="placement.php">placement</a></li>
                                 <li class="sidemenu-items"><a href="blog.php">blog</a></li>
+                                <li class="sidemenu-items"><a href="contact.php">contact</a></li>
                             </ul>
                         </div>
                     </div>
