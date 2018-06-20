@@ -1,5 +1,5 @@
 <?php
-session_start();
-session_destroy();
-header("location:http://localhost/pages/index.php");
+    session_start();
+    session_destroy();
+    header("location:http://localhost/pages/index.php");
 ?>

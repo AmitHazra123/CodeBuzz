@@ -139,7 +139,7 @@
                                         session_start();
                                         if($_SESSION['id'] == 1){
                                     ?>
-                                            <li><a href="login.php">LOGOUT</a></li>
+                                            <li><a href="logout.php">LOGOUT</a></li>
                                     <?php
                                         }
                                         else{
