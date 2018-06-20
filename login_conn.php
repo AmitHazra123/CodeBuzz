@@ -23,6 +23,7 @@
 			$message = 1;
 			header("location:login.php? msg=$message");
 		}
+	}
 ?>
 
 
