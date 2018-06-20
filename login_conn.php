@@ -12,10 +12,10 @@
 		}
 		else {
 			foreach($clients as $client){
-				if($cilent['user']==$user && $client['pass']=$pass){
+				if($cilent['user']==$user && $client['pass'] == $pass){
 					session_start();
 					$_SESSION['id'] = 1;
-					echo "Hello";
+					header("location:index.php");
 				}
 			}
 			$message = 1;
