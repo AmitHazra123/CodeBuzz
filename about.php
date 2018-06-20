@@ -111,7 +111,7 @@
                         <div class="col-12">
                             <ul class="metismenu">
                                 <li class="sidemenu-items"><a href="index.php">Home</a></li>
-                                <li class="sidemenu-items"><a href="practice.php">practice</a>practice</li>
+                                <li class="sidemenu-items"><a href="practice.php">practice</a></li>
                                 <li class="sidemenu-items"><a href="placement.php">placement</a></li>
                                 <li class="sidemenu-items"><a href="blog.php">blog</a></li>
                                 <li><a href="contact.php">contact</a></li>
