@@ -1,4 +1,4 @@
-<!doctype html>
+<!doctype php>
 <html class="no-js" lang="">
 
 <head>
@@ -46,7 +46,7 @@
                 <div class="row">
                     <div class="col-xl-5 col-lg-3 col-sm-4">
                         <div class="logo">
-                            <a href="index.html"><img src="assets/images/logo.png" alt=""></a>
+                            <a href="index.php"><img src="assets/images/logo.png" alt=""></a>
                         </div>
                     </div>
                     <div class="col-xl-5 col-lg-6 col-sm-8">
@@ -78,21 +78,21 @@
                 <div class="row">
                     <div class="col-lg-10 col-sm-9 d-none d-sm-block">
                         <ul class="mainmenu d-flex justify-content-end">
-                            <li><a href="index.html">Home</a>
+                            <li><a href="index.php">Home</a>
                             </li>
-                            <li><a href="about.html">about us</a></li>
+                            <li><a href="about.php">about us</a></li>
                             <li class="active"><a href="#">practice</a></li>
-                            <li><a href="placement.html">placement</a>
+                            <li><a href="placement.php">placement</a>
                             </li>
-                            <li><a href="blog.html">blog  <i class="fa fa-angle-down"></i></a>
+                            <li><a href="blog.php">blog  <i class="fa fa-angle-down"></i></a>
                                 <ul>
-                                    <li><a href="blog.html">Blog page</a></li>
-                                    <li><a href="blog-left.html">Blog Left</a></li>
-                                    <li><a href="blog-right.html">Blog right</a></li>
-                                    <li><a href="blog-details.html">Blog Details</a></li>
+                                    <li><a href="blog.php">Blog page</a></li>
+                                    <li><a href="blog-left.php">Blog Left</a></li>
+                                    <li><a href="blog-right.php">Blog right</a></li>
+                                    <li><a href="blog-details.php">Blog Details</a></li>
                                 </ul>
                             </li>
-                            <li><a href="contact.html">contact</a></li>
+                            <li><a href="contact.php">contact</a></li>
                         </ul>
                     </div>
                     <div class="d-block d-sm-none col-4 pull-right">
@@ -112,20 +112,20 @@
                             <ul class="metismenu">
                                 <li class="sidemenu-items"><a class="has-arrow" aria-expanded="false" href="javascript:void(0);">Home</a>
                                 </li>
-                                <li><a href="about.html">about us</a></li>
+                                <li><a href="about.php">about us</a></li>
                                 <li class="sidemenu-items"><a class="has-arrow" aria-expanded="false" href="javascript:void(0);">placement</a>
                                     <ul aria-expanded="false">
-                                        <li><a href="service.html">Service Page</a></li>
-                                        <li><a href="service-details.html">Service Details</a></li>
-                                        <li><a href="shop.html">Shop page</a></li>
+                                        <li><a href="service.php">Service Page</a></li>
+                                        <li><a href="service-details.php">Service Details</a></li>
+                                        <li><a href="shop.php">Shop page</a></li>
                                     </ul>
                                 </li>
                                 <li class="sidemenu-items"><a class="has-arrow" aria-expanded="false" href="javascript:void(0);">blog</a>
                                     <ul aria-expanded="false">
-                                        <li><a href="blog.html">Blog page</a></li>
-                                        <li><a href="blog-left.html">Blog Left</a></li>
-                                        <li><a href="blog-right.html">Blog right</a></li>
-                                        <li><a href="blog-details.html">Blog Details</a></li>
+                                        <li><a href="blog.php">Blog page</a></li>
+                                        <li><a href="blog-left.php">Blog Left</a></li>
+                                        <li><a href="blog-right.php">Blog right</a></li>
+                                        <li><a href="blog-details.php">Blog Details</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="contact">contact</a></li>
@@ -146,7 +146,7 @@
                 <div class="col-12">
                     <h2>Coding Practice</h2>
                     <ul class="d-flex">
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li><i class="fa fa-angle-double-right"></i></li>
                         <li><span>Practice</span></li>
                     </ul>
@@ -170,7 +170,7 @@
             <h5>RECOMENDED</h5><hr/>
             <div class="row">
                 <div class="col-lg-3 col-md-6 col-12">
-                    <a href="practiceDemo.html">
+                    <a href="practiceDemo.php">
                         <div class="practice-items">
                             <span class="flaticon-bitcoin-9"></span>
                             <h3>Start Online Programming</h3>
@@ -179,7 +179,7 @@
                     </a>
                 </div>
                 <div class="col-lg-3 col-md-6 col-12">
-                    <a href="practiceDemo.html">
+                    <a href="practiceDemo.php">
                         <div class="practice-items">
                             <span class="flaticon-profits"></span>
                             <h3>Code Monk</h3>
@@ -191,7 +191,7 @@
             <h5>ALL TRACKS</h5><hr/>
             <div class="row">
                 <div class="col-lg-3 col-md-6 col-12">
-                    <a href="practiceDemo.html">
+                    <a href="practiceDemo.php">
                         <div class="practice-items">
                             <span class="flaticon-bitcoin-9"></span>
                             <h3>Basic Programming</h3>
@@ -200,7 +200,7 @@
                     </a>
                 </div>
                 <div class="col-lg-3 col-md-6 col-12">
-                    <a href="practiceDemo.html">
+                    <a href="practiceDemo.php">
                         <div class="practice-items">
                             <span class="flaticon-profits"></span>
                             <h3>Data Structure</h3>
@@ -209,7 +209,7 @@
                     </a>
                 </div>
                 <div class="col-lg-3 col-md-6 col-12">
-                    <a href="practiceDemo.html">
+                    <a href="practiceDemo.php">
                         <div class="practice-items">
                             <span class="flaticon-profits"></span>
                             <h3>Algorithm</h3>
@@ -218,7 +218,7 @@
                     </a>
                 </div>
                 <div class="col-lg-3 col-md-6 col-12">
-                    <a href="practiceDemo.html">
+                    <a href="practiceDemo.php">
                         <div class="practice-items">
                             <span class="flaticon-profits"></span>
                             <h3>Math</h3>
@@ -229,7 +229,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-3 col-md-6 col-12">
-                    <a href="practiceDemo.html">
+                    <a href="practiceDemo.php">
                         <div class="practice-items">
                             <span class="flaticon-bitcoin-9"></span>
                             <h3>Machine Learning</h3>
@@ -238,7 +238,7 @@
                     </a>
                 </div>
                 <div class="col-lg-3 col-md-6 col-12">
-                    <a href="practiceDemo.html">
+                    <a href="practiceDemo.php">
                         <div class="practice-items">
                             <span class="flaticon-profits"></span>
                             <h3>Python</h3>

@@ -1,4 +1,4 @@
-<!doctype html>
+<!doctype php>
 <html class="no-js" lang="">
 
 <head>
@@ -46,7 +46,7 @@
                 <div class="row">
                     <div class="col-xl-5 col-lg-3 col-sm-4">
                         <div class="logo">
-                            <a href="index.html"><img src="assets/images/logo.png" alt=""></a>
+                            <a href="index.php"><img src="assets/images/logo.png" alt=""></a>
                         </div>
                     </div>
                     <div class="col-xl-5 col-lg-6 col-sm-8">
@@ -78,21 +78,21 @@
                 <div class="row">
                     <div class="col-lg-10 col-sm-9 d-none d-sm-block">
                         <ul class="mainmenu d-flex justify-content-end">
-                            <li><a href="index.html">Home</i></a>
+                            <li><a href="index.php">Home</i></a>
                             </li>
-                            <li><a href="about.html">about us</a></li>
-                            <li><a href="practice.html">practice</a></li>
-                            <li><a href="placement.html">placement</a>
+                            <li><a href="about.php">about us</a></li>
+                            <li><a href="practice.php">practice</a></li>
+                            <li><a href="placement.php">placement</a>
                             </li>
                             <li class="active"><a href="#">blog  <i class="fa fa-angle-down"></i></a>
                                 <ul>
-                                    <li><a href="blog.html">Blog page</a></li>
-                                    <li><a href="blog-left.html">Blog Left</a></li>
-                                    <li><a href="blog-right.html">Blog right</a></li>
-                                    <li><a href="blog-details.html">Blog Details</a></li>
+                                    <li><a href="blog.php">Blog page</a></li>
+                                    <li><a href="blog-left.php">Blog Left</a></li>
+                                    <li><a href="blog-right.php">Blog right</a></li>
+                                    <li><a href="blog-details.php">Blog Details</a></li>
                                 </ul>
                             </li>
-                            <li><a href="contact.html">contact</a></li>
+                            <li><a href="contact.php">contact</a></li>
                         </ul>
                     </div>
                     <div class="d-block d-sm-none col-4 pull-right">
@@ -112,21 +112,21 @@
                             <ul class="metismenu">
                                 <li class="sidemenu-items"><a class="has-arrow" aria-expanded="false" href="javascript:void(0);">Home</a>
                                     <ul aria-expanded="false">
-                                        <li><a href="index.html">Home Main</a></li>
-                                        <li><a href="index2.html">Home Two</a></li>
-                                        <li><a href="index3.html">Home Three</a></li>
+                                        <li><a href="index.php">Home Main</a></li>
+                                        <li><a href="index2.php">Home Two</a></li>
+                                        <li><a href="index3.php">Home Three</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="about.html">about us</a></li>
-                                <li><a href="practice.html">practice</a></li>
+                                <li><a href="about.php">about us</a></li>
+                                <li><a href="practice.php">practice</a></li>
                                 <li class="sidemenu-items"><a class="has-arrow" aria-expanded="false" href="javascript:void(0);">placement</a>
                                 </li>
                                 <li class="sidemenu-items"><a class="has-arrow" aria-expanded="false" href="javascript:void(0);">blog</a>
                                     <ul aria-expanded="false">
-                                        <li><a href="blog.html">Blog page</a></li>
-                                        <li><a href="blog-left.html">Blog Left</a></li>
-                                        <li><a href="blog-right.html">Blog right</a></li>
-                                        <li><a href="blog-details.html">Blog Details</a></li>
+                                        <li><a href="blog.php">Blog page</a></li>
+                                        <li><a href="blog-left.php">Blog Left</a></li>
+                                        <li><a href="blog-right.php">Blog right</a></li>
+                                        <li><a href="blog-details.php">Blog Details</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="contact">contact</a></li>
@@ -147,7 +147,7 @@
                 <div class="col-12">
                     <h2>Blog Page</h2>
                     <ul class="d-flex">
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li><i class="fa fa-angle-double-right"></i></li>
                         <li><span>Blog</span></li>
                     </ul>
@@ -167,14 +167,14 @@
                             <img src="assets/images/blog/1.jpg" alt="">
                         </div>
                         <div class="blog-content">
-                            <h3><a href="blog-details.html">Digital Marketo Moved To Their New Office</a></h3>
+                            <h3><a href="blog-details.php">Digital Marketo Moved To Their New Office</a></h3>
                             <ul>
                                 <li><a href="#">Jhon Simith</a></li>
                                 <li><a href="#">2 May, 2017</a></li>
                                 <li><a href="#">Latest News</a></li>
                             </ul>
                             <p>There are many variations of passages of Lorem is Ipsum available, but the majority have some suffered or alteration in  form, by injected randomised words which.</p>
-                            <a href="blog-details.html" class="readmore">Read More <i class="fa fa-angle-double-right"></i></a>
+                            <a href="blog-details.php" class="readmore">Read More <i class="fa fa-angle-double-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -184,14 +184,14 @@
                             <img src="assets/images/blog/2.jpg" alt="">
                         </div>
                         <div class="blog-content">
-                            <h3><a href="blog-details.html">Welcome To Our New Head Of Production</a></h3>
+                            <h3><a href="blog-details.php">Welcome To Our New Head Of Production</a></h3>
                             <ul>
                                 <li><a href="#">Jhon Simith</a></li>
                                 <li><a href="#">2 May, 2017</a></li>
                                 <li><a href="#">Latest News</a></li>
                             </ul>
                             <p>There are many variations of passages of Lorem is Ipsum available, but the majority have some suffered or alteration in  form, by injected randomised words which.</p>
-                            <a href="blog-details.html" class="readmore">Read More <i class="fa fa-angle-double-right"></i></a>
+                            <a href="blog-details.php" class="readmore">Read More <i class="fa fa-angle-double-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -201,14 +201,14 @@
                             <img src="assets/images/blog/3.jpg" alt="">
                         </div>
                         <div class="blog-content">
-                            <h3><a href="blog-details.html">Digital Marketo Launched Their Website</a></h3>
+                            <h3><a href="blog-details.php">Digital Marketo Launched Their Website</a></h3>
                             <ul>
                                 <li><a href="#">Jhon Simith</a></li>
                                 <li><a href="#">2 May, 2017</a></li>
                                 <li><a href="#">Latest News</a></li>
                             </ul>
                             <p>There are many variations of passages of Lorem is Ipsum available, but the majority have some suffered or alteration in  form, by injected randomised words which.</p>
-                            <a href="blog-details.html" class="readmore">Read More <i class="fa fa-angle-double-right"></i></a>
+                            <a href="blog-details.php" class="readmore">Read More <i class="fa fa-angle-double-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -218,14 +218,14 @@
                             <img src="assets/images/blog/4.jpg" alt="">
                         </div>
                         <div class="blog-content">
-                            <h3><a href="blog-details.html">Digital Marketo Moved To Their New Office</a></h3>
+                            <h3><a href="blog-details.php">Digital Marketo Moved To Their New Office</a></h3>
                             <ul>
                                 <li><a href="#">Jhon Simith</a></li>
                                 <li><a href="#">2 May, 2017</a></li>
                                 <li><a href="#">Latest News</a></li>
                             </ul>
                             <p>There are many variations of passages of Lorem is Ipsum available, but the majority have some suffered or alteration in  form, by injected randomised words which.</p>
-                            <a href="blog-details.html" class="readmore">Read More <i class="fa fa-angle-double-right"></i></a>
+                            <a href="blog-details.php" class="readmore">Read More <i class="fa fa-angle-double-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -235,14 +235,14 @@
                             <img src="assets/images/blog/5.jpg" alt="">
                         </div>
                         <div class="blog-content">
-                            <h3><a href="blog-details.html">Welcome To Our New Head Of Production</a></h3>
+                            <h3><a href="blog-details.php">Welcome To Our New Head Of Production</a></h3>
                             <ul>
                                 <li><a href="#">Jhon Simith</a></li>
                                 <li><a href="#">2 May, 2017</a></li>
                                 <li><a href="#">Latest News</a></li>
                             </ul>
                             <p>There are many variations of passages of Lorem is Ipsum available, but the majority have some suffered or alteration in  form, by injected randomised words which.</p>
-                            <a href="blog-details.html" class="readmore">Read More <i class="fa fa-angle-double-right"></i></a>
+                            <a href="blog-details.php" class="readmore">Read More <i class="fa fa-angle-double-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -252,14 +252,14 @@
                             <img src="assets/images/blog/6.jpg" alt="">
                         </div>
                         <div class="blog-content">
-                            <h3><a href="blog-details.html">Digital Marketo Launched Their Website</a></h3>
+                            <h3><a href="blog-details.php">Digital Marketo Launched Their Website</a></h3>
                             <ul>
                                 <li><a href="#">Jhon Simith</a></li>
                                 <li><a href="#">2 May, 2017</a></li>
                                 <li><a href="#">Latest News</a></li>
                             </ul>
                             <p>There are many variations of passages of Lorem is Ipsum available, but the majority have some suffered or alteration in  form, by injected randomised words which.</p>
-                            <a href="blog-details.html" class="readmore">Read More <i class="fa fa-angle-double-right"></i></a>
+                            <a href="blog-details.php" class="readmore">Read More <i class="fa fa-angle-double-right"></i></a>
                         </div>
                     </div>
                 </div>

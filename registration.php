@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE php>
 <html lang="en">
 <head>
 	<title>Login V4</title>

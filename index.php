@@ -1,4 +1,4 @@
-<!doctype html>
+<!doctype php>
 <html class="no-js" lang="">
 
 <head>
@@ -74,7 +74,7 @@
                 <div class="row">
                     <div class="col-lg-3 col-sm-7">
                         <div class="logo">
-                            <a href="index.html">
+                            <a href="index.php">
                                 <img src="assets/images/logo3.png" alt="">
                             </a>
                         </div>
@@ -83,19 +83,19 @@
                         <ul class="mainmenu d-flex justify-content-end">
                             <li class="active"><a href="javascript:void(0);">Home</a>
                             </li>
-                            <li><a href="about.html">about us</a></li>
-                            <li><a href="practice.html">practice</a></li>
-                            <li><a href="placement.html">placement</a>
+                            <li><a href="about.php">about us</a></li>
+                            <li><a href="practice.php">practice</a></li>
+                            <li><a href="placement.php">placement</a>
                             </li>
-                            <li><a href="blog.html">blog  <i class="fa fa-angle-down"></i></a>
+                            <li><a href="blog.php">blog  <i class="fa fa-angle-down"></i></a>
                                 <ul>
-                                    <li><a href="blog.html">Blog page</a></li>
-                                    <li><a href="blog-left.html">Blog Left</a></li>
-                                    <li><a href="blog-right.html">Blog right</a></li>
-                                    <li><a href="blog-details.html">Blog Details</a></li>
+                                    <li><a href="blog.php">Blog page</a></li>
+                                    <li><a href="blog-left.php">Blog Left</a></li>
+                                    <li><a href="blog-right.php">Blog right</a></li>
+                                    <li><a href="blog-details.php">Blog Details</a></li>
                                 </ul>
                             </li>
-                            <li><a href="contact.html">contact</a></li>
+                            <li><a href="contact.php">contact</a></li>
                         </ul>
                     </div>
                     <div class="d-block d-lg-none col-4 pull-right col-sm-2">
@@ -114,19 +114,19 @@
                         <div class="col-12">
                             <ul class="metismenu">
                                 <li class="sidemenu-items"><a class="has-arrow" aria-expanded="false" href="#">Home</a></li>
-                                <li><a href="about.html">about us</a></li>
-                                <li><a href="practice.html">practice</a></li>
-                                <li class="sidemenu-items"><a class="has-arrow" aria-expanded="false" href="placement.html">placement</a>
+                                <li><a href="about.php">about us</a></li>
+                                <li><a href="practice.php">practice</a></li>
+                                <li class="sidemenu-items"><a class="has-arrow" aria-expanded="false" href="placement.php">placement</a>
                                 </li>
-                                <li class="sidemenu-items"><a class="has-arrow" aria-expanded="false" href="blog.html">blog</a>
+                                <li class="sidemenu-items"><a class="has-arrow" aria-expanded="false" href="blog.php">blog</a>
                                     <ul aria-expanded="false">
-                                        <li><a href="blog.html">Blog page</a></li>
-                                        <li><a href="blog-left.html">Blog Left</a></li>
-                                        <li><a href="blog-right.html">Blog right</a></li>
-                                        <li><a href="blog-details.html">Blog Details</a></li>
+                                        <li><a href="blog.php">Blog page</a></li>
+                                        <li><a href="blog-left.php">Blog Left</a></li>
+                                        <li><a href="blog-right.php">Blog right</a></li>
+                                        <li><a href="blog-details.php">Blog Details</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="contact.html">contact</a></li>
+                                <li><a href="contact.php">contact</a></li>
                             </ul>
                         </div>
                     </div>
@@ -150,8 +150,8 @@
                                 <h2><span>We Are </span> Everyone’s Coinbuzz Agency</h2>
                                 <p>There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form randomised words which don't look even slightly believable.</p>
                                 <ul>
-                                    <li><a href="login.html">LOGIN</a></li>
-                                    <li><a href="registration.html">REGISTER</a></li>
+                                    <li><a href="login.php">LOGIN</a></li>
+                                    <li><a href="registration.php">REGISTER</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -481,14 +481,14 @@
                             <img src="assets/images/blog/1.jpg" alt="">
                         </div>
                         <div class="blog-content">
-                            <h3><a href="blog-details.html">Digital Marketo Moved To Their New Office</a></h3>
+                            <h3><a href="blog-details.php">Digital Marketo Moved To Their New Office</a></h3>
                             <ul>
                                 <li><a href="#">Jhon Simith</a></li>
                                 <li><a href="#">2 May, 2017</a></li>
                                 <li><a href="#">Latest News</a></li>
                             </ul>
                             <p>There are many variations of passages of Lorem is Ipsum available, but the majority have some suffered or alteration in  form, by injected randomised words which.</p>
-                            <a href="blog-details.html" class="readmore">Read More <i class="fa fa-angle-double-right"></i></a>
+                            <a href="blog-details.php" class="readmore">Read More <i class="fa fa-angle-double-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -498,14 +498,14 @@
                             <img src="assets/images/blog/2.jpg" alt="">
                         </div>
                         <div class="blog-content">
-                            <h3><a href="blog-details.html">Welcome To Our New Head Of Production</a></h3>
+                            <h3><a href="blog-details.php">Welcome To Our New Head Of Production</a></h3>
                             <ul>
                                 <li><a href="#">Jhon Simith</a></li>
                                 <li><a href="#">2 May, 2017</a></li>
                                 <li><a href="#">Latest News</a></li>
                             </ul>
                             <p>There are many variations of passages of Lorem is Ipsum available, but the majority have some suffered or alteration in  form, by injected randomised words which.</p>
-                            <a href="blog-details.html" class="readmore">Read More <i class="fa fa-angle-double-right"></i></a>
+                            <a href="blog-details.php" class="readmore">Read More <i class="fa fa-angle-double-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -515,14 +515,14 @@
                             <img src="assets/images/blog/1.jpg" alt="">
                         </div>
                         <div class="blog-content">
-                            <h3><a href="blog-details.html">Digital Marketo Launched Their Website</a></h3>
+                            <h3><a href="blog-details.php">Digital Marketo Launched Their Website</a></h3>
                             <ul>
                                 <li><a href="#">Jhon Simith</a></li>
                                 <li><a href="#">2 May, 2017</a></li>
                                 <li><a href="#">Latest News</a></li>
                             </ul>
                             <p>There are many variations of passages of Lorem is Ipsum available, but the majority have some suffered or alteration in  form, by injected randomised words which.</p>
-                            <a href="blog-details.html" class="readmore">Read More <i class="fa fa-angle-double-right"></i></a>
+                            <a href="blog-details.php" class="readmore">Read More <i class="fa fa-angle-double-right"></i></a>
                         </div>
                     </div>
                 </div>

@@ -1,4 +1,4 @@
-<!doctype html>
+<!doctype php>
 <html class="no-js" lang="">
 
 <head>
@@ -46,7 +46,7 @@
                 <div class="row">
                     <div class="col-xl-5 col-lg-3 col-sm-4">
                         <div class="logo">
-                            <a href="index.html"><img src="assets/images/logo.png" alt=""></a>
+                            <a href="index.php"><img src="assets/images/logo.png" alt=""></a>
                         </div>
                     </div>
                     <div class="col-xl-5 col-lg-6 col-sm-8">
@@ -78,18 +78,18 @@
                 <div class="row">
                     <div class="col-lg-10 col-sm-9 d-none d-sm-block">
                         <ul class="mainmenu d-flex justify-content-end">
-                            <li><a href="index.html">Home</a>
+                            <li><a href="index.php">Home</a>
                             </li>
-                            <li><a href="about.html">about us</a></li>
-                            <li><a href="practice.html">practice</a></li>
-                            <li><a href="placement.html">placement</a>
+                            <li><a href="about.php">about us</a></li>
+                            <li><a href="practice.php">practice</a></li>
+                            <li><a href="placement.php">placement</a>
                             </li>
-                            <li><a href="blog.html">blog  <i class="fa fa-angle-down"></i></a>
+                            <li><a href="blog.php">blog  <i class="fa fa-angle-down"></i></a>
                                 <ul>
-                                    <li><a href="blog.html">Blog page</a></li>
-                                    <li><a href="blog-left.html">Blog Left</a></li>
-                                    <li><a href="blog-right.html">Blog right</a></li>
-                                    <li><a href="blog-details.html">Blog Details</a></li>
+                                    <li><a href="blog.php">Blog page</a></li>
+                                    <li><a href="blog-left.php">Blog Left</a></li>
+                                    <li><a href="blog-right.php">Blog right</a></li>
+                                    <li><a href="blog-details.php">Blog Details</a></li>
                                 </ul>
                             </li>
                             <li class="active"><a href="#">contact</a></li>
@@ -112,16 +112,16 @@
                             <ul class="metismenu">
                                 <li class="sidemenu-items"><a class="has-arrow" aria-expanded="false" href="javascript:void(0);">Home</a>
                                 </li>
-                                <li><a href="about.html">about us</a></li>
-                                <li><a href="practice.html">about us</a></li>
+                                <li><a href="about.php">about us</a></li>
+                                <li><a href="practice.php">about us</a></li>
                                 <li class="sidemenu-items"><a class="has-arrow" aria-expanded="false" href="javascript:void(0);">placement</a>
                                 </li>
                                 <li class="sidemenu-items"><a class="has-arrow" aria-expanded="false" href="javascript:void(0);">blog</a>
                                     <ul aria-expanded="false">
-                                        <li><a href="blog.html">Blog page</a></li>
-                                        <li><a href="blog-left.html">Blog Left</a></li>
-                                        <li><a href="blog-right.html">Blog right</a></li>
-                                        <li><a href="blog-details.html">Blog Details</a></li>
+                                        <li><a href="blog.php">Blog page</a></li>
+                                        <li><a href="blog-left.php">Blog Left</a></li>
+                                        <li><a href="blog-right.php">Blog right</a></li>
+                                        <li><a href="blog-details.php">Blog Details</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="contact">contact</a></li>
@@ -142,7 +142,7 @@
                 <div class="col-12">
                     <h2>Contact</h2>
                     <ul class="d-flex">
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li><i class="fa fa-angle-double-right"></i></li>
                         <li><span>Contact</span></li>
                     </ul>

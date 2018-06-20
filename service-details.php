@@ -1,4 +1,4 @@
-<!doctype html>
+<!doctype php>
 <html class="no-js" lang="">
 
 <head>
@@ -46,7 +46,7 @@
                 <div class="row">
                     <div class="col-xl-5 col-lg-3 col-sm-4">
                         <div class="logo">
-                            <a href="index.html"><img src="assets/images/logo.png" alt=""></a>
+                            <a href="index.php"><img src="assets/images/logo.png" alt=""></a>
                         </div>
                     </div>
                     <div class="col-xl-5 col-lg-6 col-sm-8">
@@ -80,28 +80,28 @@
                         <ul class="mainmenu d-flex justify-content-end">
                             <li><a href="javascript:void(0);">Home <i class="fa fa-angle-down"></i></a>
                                 <ul>
-                                    <li><a href="index.html">Home Main</a></li>
-                                    <li><a href="index2.html">Home Two</a></li>
-                                    <li><a href="index3.html">Home Three</a></li>
+                                    <li><a href="index.php">Home Main</a></li>
+                                    <li><a href="index2.php">Home Two</a></li>
+                                    <li><a href="index3.php">Home Three</a></li>
                                 </ul>
                             </li>
-                            <li><a href="about.html">about us</a></li>
+                            <li><a href="about.php">about us</a></li>
                             <li class="active"><a href="javascript:void(0);">pages</a>
                                 <ul>
-                                    <li><a href="service.html">Service Page</a></li>
-                                    <li><a href="service-details.html">Service Details</a></li>
-                                    <li><a href="shop.html">Shop page</a></li>
+                                    <li><a href="service.php">Service Page</a></li>
+                                    <li><a href="service-details.php">Service Details</a></li>
+                                    <li><a href="shop.php">Shop page</a></li>
                                 </ul>
                             </li>
-                            <li><a href="blog.html">blog</a>
+                            <li><a href="blog.php">blog</a>
                                 <ul>
-                                    <li><a href="blog.html">Blog page</a></li>
-                                    <li><a href="blog-left.html">Blog Left</a></li>
-                                    <li><a href="blog-right.html">Blog right</a></li>
-                                    <li><a href="blog-details.html">Blog Details</a></li>
+                                    <li><a href="blog.php">Blog page</a></li>
+                                    <li><a href="blog-left.php">Blog Left</a></li>
+                                    <li><a href="blog-right.php">Blog right</a></li>
+                                    <li><a href="blog-details.php">Blog Details</a></li>
                                 </ul>
                             </li>
-                            <li><a href="contact.html">contact</a></li>
+                            <li><a href="contact.php">contact</a></li>
                         </ul>
                     </div>
                     <div class="col-lg-2 col-sm-3 col-8">
@@ -126,25 +126,25 @@
                             <ul class="metismenu">
                                 <li class="sidemenu-items"><a class="has-arrow" aria-expanded="false" href="javascript:void(0);">Home</a>
                                     <ul aria-expanded="false">
-                                        <li><a href="index.html">Home Main</a></li>
-                                        <li><a href="index2.html">Home Two</a></li>
-                                        <li><a href="index3.html">Home Three</a></li>
+                                        <li><a href="index.php">Home Main</a></li>
+                                        <li><a href="index2.php">Home Two</a></li>
+                                        <li><a href="index3.php">Home Three</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="about.html">about us</a></li>
+                                <li><a href="about.php">about us</a></li>
                                 <li class="sidemenu-items"><a class="has-arrow" aria-expanded="false" href="javascript:void(0);">pages</a>
                                     <ul aria-expanded="false">
-                                        <li><a href="service.html">Service Page</a></li>
-                                        <li><a href="service-details.html">Service Details</a></li>
-                                        <li><a href="shop.html">Shop page</a></li>
+                                        <li><a href="service.php">Service Page</a></li>
+                                        <li><a href="service-details.php">Service Details</a></li>
+                                        <li><a href="shop.php">Shop page</a></li>
                                     </ul>
                                 </li>
                                 <li class="sidemenu-items"><a class="has-arrow" aria-expanded="false" href="javascript:void(0);">blog</a>
                                     <ul aria-expanded="false">
-                                        <li><a href="blog.html">Blog page</a></li>
-                                        <li><a href="blog-left.html">Blog Left</a></li>
-                                        <li><a href="blog-right.html">Blog right</a></li>
-                                        <li><a href="blog-details.html">Blog Details</a></li>
+                                        <li><a href="blog.php">Blog page</a></li>
+                                        <li><a href="blog-left.php">Blog Left</a></li>
+                                        <li><a href="blog-right.php">Blog right</a></li>
+                                        <li><a href="blog-details.php">Blog Details</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="contact">contact</a></li>
@@ -165,7 +165,7 @@
                 <div class="col-12">
                     <h2>Sevices Page</h2>
                     <ul class="d-flex">
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li><i class="fa fa-angle-double-right"></i></li>
                         <li><span>Service</span></li>
                     </ul>
@@ -201,7 +201,7 @@
                     <div class="service-wrappper">
                         <img src="assets/images/service/1.jpg" alt="">
                         <div class="service-contents">
-                            <h3><a href="service-details.html">Profits Bitcoin </a></h3>
+                            <h3><a href="service-details.php">Profits Bitcoin </a></h3>
                             <p>There are many variations of passages of an Lorem Ipsum available but the about majority have suffered alteration dummy now.</p>
                         </div>
                         
@@ -211,7 +211,7 @@
                     <div class="service-wrappper">
                         <img src="assets/images/service/2.jpg" alt="">
                         <div class="service-contents">
-                            <h3><a href="service-details.html">Exchange Bitcoin</a></h3>
+                            <h3><a href="service-details.php">Exchange Bitcoin</a></h3>
                             <p>There are many variations of passages of an Lorem Ipsum available but the about majority have suffered alteration dummy now.</p>
                         </div>
                         
@@ -221,7 +221,7 @@
                     <div class="service-wrappper">
                         <img src="assets/images/service/3.jpg" alt="">
                         <div class="service-contents">
-                            <h3><a href="service-details.html">Exchange Bitcoin</a></h3>
+                            <h3><a href="service-details.php">Exchange Bitcoin</a></h3>
                             <p>There are many variations of passages of an Lorem Ipsum available but the about majority have suffered alteration dummy now.</p>
                         </div>
                         
@@ -231,7 +231,7 @@
                     <div class="service-wrappper">
                         <img src="assets/images/service/4.jpg" alt="">
                         <div class="service-contents">
-                            <h3><a href="service-details.html">Worldwide Bitcoin</a></h3>
+                            <h3><a href="service-details.php">Worldwide Bitcoin</a></h3>
                             <p>There are many variations of passages of an Lorem Ipsum available but the about majority have suffered alteration dummy now.</p>
                         </div>
                         
@@ -241,7 +241,7 @@
                     <div class="service-wrappper">
                         <img src="assets/images/service/5.jpg" alt="">
                         <div class="service-contents">
-                            <h3><a href="service-details.html">Safe And Secure</a></h3>
+                            <h3><a href="service-details.php">Safe And Secure</a></h3>
                             <p>There are many variations of passages of an Lorem Ipsum available but the about majority have suffered alteration dummy now.</p>
                         </div>
                     </div>
@@ -250,7 +250,7 @@
                     <div class="service-wrappper">
                         <img src="assets/images/service/6.jpg" alt="">
                         <div class="service-contents">
-                            <h3><a href="service-details.html">Covered By Insurance</a></h3>
+                            <h3><a href="service-details.php">Covered By Insurance</a></h3>
                             <p>There are many variations of passages of an Lorem Ipsum available but the about majority have suffered alteration dummy now.</p>
                         </div>
                         
@@ -271,7 +271,7 @@
                         <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
                         <ul>
                             <li><a href="#">View Services</a></li>
-                            <li><a href="contact.html"> CONTACT US</a></li>
+                            <li><a href="contact.php"> CONTACT US</a></li>
                         </ul>
                     </div>
                 </div>

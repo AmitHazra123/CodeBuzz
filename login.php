@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE php>
 <html lang="en">
 <head>
 	<title>Login V4</title>
@@ -89,7 +89,7 @@
 							Or Sign Up Using
 						</span>
 
-						<a href="registration.html" class="txt2">
+						<a href="registration.php" class="txt2">
 							Sign Up
 						</a>
 					</div>
