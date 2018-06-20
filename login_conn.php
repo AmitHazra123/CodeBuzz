@@ -1,26 +1,26 @@
 <?php
-	session_start();
-	$user=$_POST['username'];
-	$pass=$_POST['pass'];
+	if($_POST['username'] && $_POST['pass']){
+		$user=$_POST['username'];
+		$pass=$_POST['pass'];
 
-	echo $user;
-	echo $pass;
-	/*$clients=array(array('user'=>'AMIT','pass'=>'amit123'),array('user'=>'SYED','pass'=>'SYED007'),array('user'=>'SAYAN','pass'=>'sayan969'));
+		$clients=array(array('user'=>'AMIT','pass'=>'amit123'),array('user'=>'SYED','pass'=>'SYED007'),array('user'=>'SAYAN','pass'=>'sayan969'));
 
-	if($user=='admin@codebuzz.com' && $pass=='admin'){
-		$_SESSION['id'] = 1;
-		header("location:admin.php");
-	}
-	else {
-		foreach($clients as $client){
-			if($cilent['user']==$user && $client['pass']=$pass){
-				$_SESSION['id'] = 1;
-				header("location:index.php");
-			}
+		if($user=='admin@codebuzz.com' && $pass=='admin'){
+			session_start();
+			$_SESSION['id'] = 1;
+			header("location:admin.php");
 		}
-		$message = 1;
-		header("location:login.php? msg=$message");
-	}*/
+		else {
+			foreach($clients as $client){
+				if($cilent['user']==$user && $client['pass']=$pass){
+					session_start();
+					$_SESSION['id'] = 1;
+					echo "Hello";
+				}
+			}
+			$message = 1;
+			header("location:login.php? msg=$message");
+		}
 ?>
 
 
