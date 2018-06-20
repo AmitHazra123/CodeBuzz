@@ -3,7 +3,9 @@
 	$user=$_POST['username'];
 	$pass=$_POST['pass'];
 
-	$clients=array(array('user'=>'AMIT','pass'=>'amit123'),array('user'=>'SYED','pass'=>'SYED007'),array('user'=>'SAYAN','pass'=>'sayan969'));
+	echo $user;
+	echo $pass;
+	/*$clients=array(array('user'=>'AMIT','pass'=>'amit123'),array('user'=>'SYED','pass'=>'SYED007'),array('user'=>'SAYAN','pass'=>'sayan969'));
 
 	if($user=='admin@codebuzz.com' && $pass=='admin'){
 		$_SESSION['id'] = 1;
@@ -18,7 +20,7 @@
 		}
 		$message = 1;
 		header("location:login.php? msg=$message");
-	}
+	}*/
 ?>
 
 
