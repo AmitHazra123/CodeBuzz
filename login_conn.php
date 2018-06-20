@@ -13,9 +13,11 @@
 		else {
 			foreach($clients as $client){
 				if($cilent['user'] == $user && $client['pass'] == $password){
-					session_start();
+					echo $client['user'];
+					echo $client['pass'];
+					/*session_start();
 					$_SESSION['id'] = 1;
-					header("location:index.php");
+					header("location:index.php");*/
 				}
 			}
 			$message = 1;
