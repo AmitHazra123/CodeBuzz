@@ -62,8 +62,8 @@
 								Login
 							</button>
 							<?php
-								if($_GET['msg'])
-									echo msg;
+								if($_GET['msg'] == 1)
+									echo "Inclorrect Username or Password";
 							?>
 						</div>
 					</div>
