@@ -3,7 +3,9 @@
 		$user = $_POST['username'];
 		$password =$_POST['pass'];
 
-		$clients=array(array('user'=>'AMIT','pass'=>'amit123'),array('user'=>'SYED','pass'=>'SYED007'),array('user'=>'SAYAN','pass'=>'sayan969'));
+		$client1 = array('user'=>'AMIT','pass'=>'amit123');
+		$client2 = array('user'=>'SYED','pass'=>'SYED007');
+		$client3 = array('user'=>'SAYAN','pass'=>'sayan969');
 
 		if($user=='admin@codebuzz.com' && $password =='admin'){
 			session_start();
@@ -11,17 +13,25 @@
 			header("location:admin.php");
 		}
 		else {
-			foreach($clients as $client){
-				echo $client['user'];
-				echo $client['pass'];
-				if($cilent['user'] == $user && $client['pass'] == $password){
-					/*session_start();
-					$_SESSION['id'] = 1;
-					header("location:index.php");*/
-				}
+			if($client1['user'] == $user && $client1['pass'] == $password){
+				session_start();
+				$_SESSION['id'] = 1;
+				header("location:index.php");
 			}
-			$message = 1;
-			header("location:login.php? msg=$message");
+			else if($client2['user'] == $user && $client2['pass'] == $password){
+				session_start();
+				$_SESSION['id'] = 1;
+				header("location:index.php");
+			}
+			else if($client3['user'] == $user && $client3['pass'] == $password){
+				session_start();
+				$_SESSION['id'] = 1;
+				header("location:index.php");
+			}
+			else{
+				$message = 1;
+				header("location:login.php? msg=$message");
+			}
 		}
 	}
 ?>
