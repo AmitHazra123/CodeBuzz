@@ -113,20 +113,11 @@
                     <div class="row">
                         <div class="col-12">
                             <ul class="metismenu">
-                                <li class="sidemenu-items"><a class="has-arrow" aria-expanded="false" href="#">Home</a></li>
-                                <li><a href="about.php">about us</a></li>
-                                <li><a href="practice.php">practice</a></li>
-                                <li class="sidemenu-items"><a class="has-arrow" aria-expanded="false" href="placement.php">placement</a>
-                                </li>
-                                <li class="sidemenu-items"><a class="has-arrow" aria-expanded="false" href="blog.php">blog</a>
-                                    <ul aria-expanded="false">
-                                        <li><a href="blog.php">Blog page</a></li>
-                                        <li><a href="blog-left.php">Blog Left</a></li>
-                                        <li><a href="blog-right.php">Blog right</a></li>
-                                        <li><a href="blog-details.php">Blog Details</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="contact.php">contact</a></li>
+                                <li class="sidemenu-items"><a href="javascript:void(0)">Home</a></li>
+                                <li class="sidemenu-items"><a href="about.php">about us</a></li>
+                                <li class="sidemenu-items"><a href="practice.php">practice</a>practice</li>
+                                <li class="sidemenu-items"><a href="placement.php">placement</a></li>
+                                <li class="sidemenu-items"><a href="blog.php">blog</a></li>
                             </ul>
                         </div>
                     </div>
