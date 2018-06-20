@@ -7,7 +7,7 @@ $pass=$_POST['password'];
 $clients=array(array('user'=>'AMIT','pass'=>'amit123'),array('user'=>'SYED','pass'=>'SYED007'),array('user'=>'SAYAN','pass'=>'sayan969'));
 
 if($user=='admin@codebuzz.com' && $pass=='admin')
-	header("Location:http://localhost/admin.php");
+	header("location:admin.php");
 else 
 {
 	foreach($clients as $client)
@@ -16,7 +16,7 @@ else
 		{
 			S_SESSION['user']=$user;
 			S_SESSION['pass']=$pass;
-			header("Location:http://localhost/index.php");
+			header("location:index.php");
 		}
 	}
 	header("Location:index.php");
