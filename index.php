@@ -87,14 +87,7 @@
                             <li><a href="practice.php">practice</a></li>
                             <li><a href="placement.php">placement</a>
                             </li>
-                            <li><a href="blog.php">blog  <i class="fa fa-angle-down"></i></a>
-                                <ul>
-                                    <li><a href="blog.php">Blog page</a></li>
-                                    <li><a href="blog-left.php">Blog Left</a></li>
-                                    <li><a href="blog-right.php">Blog right</a></li>
-                                    <li><a href="blog-details.php">Blog Details</a></li>
-                                </ul>
-                            </li>
+                            <li><a href="blog.php">blog</a></li>
                             <li><a href="contact.php">contact</a></li>
                         </ul>
                     </div>
