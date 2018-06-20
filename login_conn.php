@@ -17,7 +17,7 @@
 					header("location:index.php");
 				}
 			}
-			header("location:login.php?msg='Incorrect Username or Password'");
+			header("location:login.php?msg=Incorrect Username or Password");
 		}
 	}
 ?>
