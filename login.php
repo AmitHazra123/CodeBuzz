@@ -58,7 +58,13 @@
 					<div class="container-login100-form-btn">
 						<div class="wrap-login100-form-btn">
 							<div class="login100-form-bgbtn"></div>
-							<input type="submit" name="sub" value="Login" class="login100-form-btn" />
+							<button class="login100-form-btn">
+								Login
+							</button>
+							<?php
+								if($_GET['msg'])
+									echo msg;
+							?>
 						</div>
 					</div>
 
