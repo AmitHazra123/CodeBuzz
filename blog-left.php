@@ -124,30 +124,19 @@
                     <div class="row">
                         <div class="col-12">
                             <ul class="metismenu">
-                                <li class="sidemenu-items"><a class="has-arrow" aria-expanded="false" href="javascript:void(0);">Home</a>
+                                <li class="sidemenu-items"><a class="has-arrow" aria-expanded="false" href="index.php">Home</a></li>
+                                <li><a href="about.php">about us</a></li>
+                                <li class="sidemenu-items"><a class="has-arrow" aria-expanded="false" href="practice.php">practice</a>
+                                <li class="sidemenu-items"><a class="has-arrow" aria-expanded="false" href="placement.php">placement</a></li>
+                                <li class="sidemenu-items"><a class="has-arrow" aria-expanded="false" href="blog.php">blog</a>
                                     <ul aria-expanded="false">
-                                        <li><a href="index.html">Home Main</a></li>
-                                        <li><a href="index2.html">Home Two</a></li>
-                                        <li><a href="index3.html">Home Three</a></li>
+                                        <li><a href="blog.php">Blog page</a></li>
+                                        <li><a href="blog-left.php">Blog Left</a></li>
+                                        <li><a href="blog-right.php">Blog right</a></li>
+                                        <li><a href="blog-details.php">Blog Details</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="about.html">about us</a></li>
-                                <li class="sidemenu-items"><a class="has-arrow" aria-expanded="false" href="javascript:void(0);">pages</a>
-                                    <ul aria-expanded="false">
-                                        <li><a href="service.html">Service Page</a></li>
-                                        <li><a href="service-details.html">Service Details</a></li>
-                                        <li><a href="shop.html">Shop page</a></li>
-                                    </ul>
-                                </li>
-                                <li class="sidemenu-items"><a class="has-arrow" aria-expanded="false" href="javascript:void(0);">blog</a>
-                                    <ul aria-expanded="false">
-                                        <li><a href="blog.html">Blog page</a></li>
-                                        <li><a href="blog-left.html">Blog Left</a></li>
-                                        <li><a href="blog-right.html">Blog right</a></li>
-                                        <li><a href="blog-details.html">Blog Details</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="contact">contact</a></li>
+                                <li><a href="contact.php">contact</a></li>
                             </ul>
                         </div>
                     </div>

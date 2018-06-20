@@ -78,21 +78,10 @@
                 <div class="row">
                     <div class="col-lg-10 col-sm-9 d-none d-sm-block">
                         <ul class="mainmenu d-flex justify-content-end">
-                            <li><a href="javascript:void(0);">Home <i class="fa fa-angle-down"></i></a>
-                                <ul>
-                                    <li><a href="index.php">Home Main</a></li>
-                                    <li><a href="index2.php">Home Two</a></li>
-                                    <li><a href="index3.php">Home Three</a></li>
-                                </ul>
-                            </li>
+                            <li><a href="index.php">Home <i class="fa fa-angle-down"></i></a></li>
                             <li><a href="about.php">about us</a></li>
-                            <li class="active"><a href="javascript:void(0);">pages</a>
-                                <ul>
-                                    <li><a href="service.php">Service Page</a></li>
-                                    <li><a href="service-details.php">Service Details</a></li>
-                                    <li><a href="shop.php">Shop page</a></li>
-                                </ul>
-                            </li>
+                            <li class="active"><a href="javascript:void(0);">practice</a></li>
+                            <li class="active"><a href="placement.php">placement</a></li>
                             <li><a href="blog.php">blog</a>
                                 <ul>
                                     <li><a href="blog.php">Blog page</a></li>

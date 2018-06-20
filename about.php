@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Coinbuzz - About</title>
+    <title>CodeBuzz- About</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" type="image/png" href="assets/images/favicon.png">
@@ -110,14 +110,14 @@
                     <div class="row">
                         <div class="col-12">
                             <ul class="metismenu">
-                                <li class="sidemenu-items"><a class="has-arrow" aria-expanded="false" href="javascript:void(0);">Home</a>
+                                <li class="sidemenu-items"><a class="has-arrow" aria-expanded="false" href="index.php">Home</a>
                                 </li>
-                                <li><a href="about.php">about us</a></li>
-                                <li class="sidemenu-items"><a class="has-arrow" aria-expanded="false" href="javascript:void(0);">practice.php</a>
+                                <li><a href="javascript:void(0);">about us</a></li>
+                                <li class="sidemenu-items"><a class="has-arrow" aria-expanded="false" href="practice.php">practice.php</a>
                                 </li>
-                                <li class="sidemenu-items"><a class="has-arrow" aria-expanded="false" href="javascript:void(0);">placement</a>
+                                <li class="sidemenu-items"><a class="has-arrow" aria-expanded="false" href="placement.php">placement</a>
                                 </li>
-                                <li class="sidemenu-items"><a class="has-arrow" aria-expanded="false" href="javascript:void(0);">blog</a>
+                                <li class="sidemenu-items"><a class="has-arrow" aria-expanded="false" href="blog.php">blog</a>
                                     <ul aria-expanded="false">
                                         <li><a href="blog.php">Blog page</a></li>
                                         <li><a href="blog-left.php">Blog Left</a></li>
