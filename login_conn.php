@@ -1,8 +1,4 @@
 <?php
-	if($_SESSION['id'] == 1){
-		$message = 2;
-		header("location:login.php? msg=$message");
-	}
 	if($_POST['username'] && $_POST['pass']){
 		$user = $_POST['username'];
 		$password =$_POST['pass'];

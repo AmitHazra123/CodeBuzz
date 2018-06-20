@@ -70,8 +70,6 @@
 						<?php
 							if($_GET['msg'] == 1)
 								echo "Inclorrect Username or Password";
-							else
-								echo "Your are already logged in."
 						?>
 					</div>
 
