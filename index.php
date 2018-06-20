@@ -164,7 +164,7 @@
                                 <h2><span>We Are </span> Everyone’s Coinbuzz Agency</h2>
                                 <p>There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form randomised words which don't look even slightly believable.</p>
                                 <ul>
-                                    <li><a href="#">LOGIN</a></li>
+                                    <li><a href="login.php">LOGIN</a></li>
                                     <li><a href="#">REGISTER</a></li>
                                 </ul>
                             </div>
