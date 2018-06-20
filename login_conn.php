@@ -11,7 +11,7 @@
 	}
 	else {
 		foreach($clients as $client){
-			if($cilent['user']=='$user' && $client['pass']='$pass'){
+			if($cilent['user']==$user && $client['pass']=$pass){
 				$_SESSION['id'] = 1;
 				header("location:index.php");
 			}
