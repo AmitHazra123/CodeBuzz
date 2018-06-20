@@ -1,3 +1,8 @@
+<?php
+    session_start();
+    if($_SESSION['id'] == 1)
+        header("location:index.php");
+?>
 <!doctype php>
 <html class="no-js" lang="">
 
