@@ -61,11 +61,11 @@
 							<button class="login100-form-btn">
 								Login
 							</button>
-							<?php
-								if($_GET['msg'] == 1)
-									echo "Inclorrect Username or Password";
-							?>
 						</div>
+						<?php
+							if($_GET['msg'] == 1)
+								echo "Inclorrect Username or Password";
+						?>
 					</div>
 
 					<div class="txt1 text-center p-t-54 p-b-20">

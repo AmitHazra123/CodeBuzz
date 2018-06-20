@@ -1,7 +1,7 @@
 <?php
 	session_start();
 	$user=$_POST['username'];
-	$pass=$_POST['password'];
+	$pass=$_POST['pass'];
 
 	$clients=array(array('user'=>'AMIT','pass'=>'amit123'),array('user'=>'SYED','pass'=>'SYED007'),array('user'=>'SAYAN','pass'=>'sayan969'));
 
