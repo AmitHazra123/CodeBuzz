@@ -46,7 +46,7 @@
                 <div class="row">
                     <div class="col-xl-5 col-lg-3 col-sm-4">
                         <div class="logo">
-                            <a href="index.php"><img src="assets/images/logo.png" alt=""></a>
+                            <a href="index.php"><img src="assets/images/logopic2.png" alt=""></a>
                         </div>
                     </div>
                     <div class="col-xl-5 col-lg-6 col-sm-8">

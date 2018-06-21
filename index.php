@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Coinbuzz - Home Two</title>
+    <title>CodeBuzz</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" type="image/png" href="assets/images/favicon.png">
@@ -75,18 +75,18 @@
                     <div class="col-lg-3 col-sm-7">
                         <div class="logo">
                             <a href="index.html">
-                                <img src="assets/images/logo3.png" alt="">
+                                <img src="assets/images/logopic.png" alt="">
                             </a>
                         </div>
                     </div>
                     <div class="col-lg-7 col-sm-9 d-none d-lg-block">
                         <ul class="mainmenu d-flex justify-content-end">
                             <li class="active"><a href="javascript:void(0);">Home</a></li>
-                            <li><a href="about.html">about us</a></li>
-                            <li><a href="practice.html">practice</a></li>
-                            <li><a href="placement.html">placement</a></li>
-                            <li><a href="blog.html">blog</a></li>
-                            <li><a href="contact.html">contact</a></li>
+                            <li><a href="about.php">about us</a></li>
+                            <li><a href="practice.php">practice</a></li>
+                            <li><a href="placement.php">placement</a></li>
+                            <li><a href="blog.php">blog</a></li>
+                            <li><a href="contact.php">contact</a></li>
                         </ul>
                     </div>
                     <div class="d-block d-lg-none col-4 pull-right col-sm-2">
@@ -105,10 +105,10 @@
                         <div class="col-12">
                             <ul class="metismenu">
                                 <li class="sidemenu-items"><a class="has-arrow" aria-expanded="false" href="javascript:void(0);">Home</a></li>
-                                <li><a href="about.html">about us</a></li>
-                                <li><a href="practice.html">practice</a></li>
-                                <li class="sidemenu-items"><a class="has-arrow" aria-expanded="false" href="placement.html">placement</a></li>
-                                <li class="sidemenu-items"><a class="has-arrow" aria-expanded="false" href="blog.html">blog</a></li>
+                                <li><a href="about.php">about us</a></li>
+                                <li><a href="practice.php">practice</a></li>
+                                <li class="sidemenu-items"><a class="has-arrow" aria-expanded="false" href="placement.php">placement</a></li>
+                                <li class="sidemenu-items"><a class="has-arrow" aria-expanded="false" href="blog.php">blog</a></li>
                                 <li><a href="contact.html">contact</a></li>
                             </ul>
                         </div>
@@ -163,8 +163,8 @@
                                 <h2><span>We Are </span> Everyone’s Coinbuzz Agency</h2>
                                 <p>There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form randomised words which don't look even slightly believable.</p>
                                 <ul>
-                                    <li><a href="#">LOGIN</a></li>
-                                    <li><a href="#">REGISTER</a></li>
+                                    <li><a href="login.php">LOGIN</a></li>
+                                    <li><a href="register.php">REGISTER</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -187,7 +187,7 @@
                                     <div class="featured-img">
                                         <img src="assets/images/featured/1.jpg" alt="">
                                     </div>
-                                    <h2><a href="#">Practice</a></h2>
+                                    <h2><a href="practice.php">Practice</a></h2>
                                     <p>There are many variations of passages of Lorem the Ipsum available, but the majority have suffered that alteration in some form.</p>
                                 </div>
                             </div>
@@ -196,7 +196,7 @@
                                     <div class="featured-img">
                                         <img src="assets/images/featured/2.jpg" alt="">
                                     </div>
-                                    <h2><a href="#">Placement</a></h2>
+                                    <h2><a href="placement.php">Placement</a></h2>
                                     <p>There are many variations of passages of Lorem the Ipsum available, but the majority have suffered that alteration in some form.</p>
                                 </div>
                             </div>
@@ -205,7 +205,7 @@
                                     <div class="featured-img">
                                         <img src="assets/images/featured/3.jpg" alt="">
                                     </div>
-                                    <h2><a href="#">Blog</a></h2>
+                                    <h2><a href="blog.php">Blog</a></h2>
                                     <p>There are many variations of passages of Lorem the Ipsum available, but the majority have suffered that alteration in some form.</p>
                                 </div>
                             </div>
@@ -227,7 +227,7 @@
                 <div class="col-12">
                     <div class="section-title text-center">
                         <br/>
-                        <h2>About Bitcoin</h2>
+                        <h2>About CodeBuzz</h2>
                         <img src="assets/images/line.png" alt="">
                     </div>
                 </div>

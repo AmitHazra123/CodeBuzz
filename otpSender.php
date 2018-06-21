@@ -6,7 +6,7 @@
     $to = "shivahazra@gmail.com";
     $subject = "CodeBuzz One Time Password";
     $random = rand(1, 999999);
-    $msg = "Your One Time Password is ".$random.".<br/>Dont't Share this Password to anyone.";
+    $msg = "Your One Time Password is ".$random."<br/>Dont't Share this Password to anyone.";
     
     $mail = new PHPMailer();
     $mail -> IsSMTP();
