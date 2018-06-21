@@ -1,10 +1,10 @@
-<!doctype php>
+<!doctype html>
 <html class="no-js" lang="">
 
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>CodeBuzz</title>
+    <title>Coinbuzz - Home Two</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" type="image/png" href="assets/images/favicon.png">
@@ -74,21 +74,19 @@
                 <div class="row">
                     <div class="col-lg-3 col-sm-7">
                         <div class="logo">
-                            <a href="index.php">
+                            <a href="index.html">
                                 <img src="assets/images/logo3.png" alt="">
                             </a>
                         </div>
                     </div>
                     <div class="col-lg-7 col-sm-9 d-none d-lg-block">
                         <ul class="mainmenu d-flex justify-content-end">
-                            <li class="active"><a href="javascript:void(0);">Home</a>
-                            </li>
-                            <li><a href="about.php">about us</a></li>
-                            <li><a href="practice.php">practice</a></li>
-                            <li><a href="placement.php">placement</a>
-                            </li>
-                            <li><a href="blog.php">blog</a></li>
-                            <li><a href="contact.php">contact</a></li>
+                            <li class="active"><a href="javascript:void(0);">Home</a></li>
+                            <li><a href="about.html">about us</a></li>
+                            <li><a href="practice.html">practice</a></li>
+                            <li><a href="placement.html">placement</a></li>
+                            <li><a href="blog.html">blog</a></li>
+                            <li><a href="contact.html">contact</a></li>
                         </ul>
                     </div>
                     <div class="d-block d-lg-none col-4 pull-right col-sm-2">
@@ -106,12 +104,12 @@
                     <div class="row">
                         <div class="col-12">
                             <ul class="metismenu">
-                                <li class="sidemenu-items"><a href="javascript:void(0)">Home</a></li>
-                                <li class="sidemenu-items"><a href="about.php">about us</a></li>
-                                <li class="sidemenu-items"><a href="practice.php">practice</a></li>
-                                <li class="sidemenu-items"><a href="placement.php">placement</a></li>
-                                <li class="sidemenu-items"><a href="blog.php">blog</a></li>
-                                <li class="sidemenu-items"><a href="contact.php">contact</a></li>
+                                <li class="sidemenu-items"><a class="has-arrow" aria-expanded="false" href="javascript:void(0);">Home</a></li>
+                                <li><a href="about.html">about us</a></li>
+                                <li><a href="practice.html">practice</a></li>
+                                <li class="sidemenu-items"><a class="has-arrow" aria-expanded="false" href="placement.html">placement</a></li>
+                                <li class="sidemenu-items"><a class="has-arrow" aria-expanded="false" href="blog.html">blog</a></li>
+                                <li><a href="contact.html">contact</a></li>
                             </ul>
                         </div>
                     </div>
@@ -136,6 +134,7 @@
                                 <p>There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form randomised words which don't look even slightly believable.</p>
                                 <ul>
                                     <?php
+                                        error_reporting(0);
                                         session_start();
                                         if($_SESSION['id'] == 1){
                                     ?>
@@ -164,7 +163,7 @@
                                 <h2><span>We Are </span> Everyone’s Coinbuzz Agency</h2>
                                 <p>There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form randomised words which don't look even slightly believable.</p>
                                 <ul>
-                                    <li><a href="login.php">LOGIN</a></li>
+                                    <li><a href="#">LOGIN</a></li>
                                     <li><a href="#">REGISTER</a></li>
                                 </ul>
                             </div>
@@ -478,14 +477,14 @@
                             <img src="assets/images/blog/1.jpg" alt="">
                         </div>
                         <div class="blog-content">
-                            <h3><a href="blog-details.php">Digital Marketo Moved To Their New Office</a></h3>
+                            <h3><a href="blog-details.html">Digital Marketo Moved To Their New Office</a></h3>
                             <ul>
                                 <li><a href="#">Jhon Simith</a></li>
                                 <li><a href="#">2 May, 2017</a></li>
                                 <li><a href="#">Latest News</a></li>
                             </ul>
                             <p>There are many variations of passages of Lorem is Ipsum available, but the majority have some suffered or alteration in  form, by injected randomised words which.</p>
-                            <a href="blog-details.php" class="readmore">Read More <i class="fa fa-angle-double-right"></i></a>
+                            <a href="blog-details.html" class="readmore">Read More <i class="fa fa-angle-double-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -495,14 +494,14 @@
                             <img src="assets/images/blog/2.jpg" alt="">
                         </div>
                         <div class="blog-content">
-                            <h3><a href="blog-details.php">Welcome To Our New Head Of Production</a></h3>
+                            <h3><a href="blog-details.html">Welcome To Our New Head Of Production</a></h3>
                             <ul>
                                 <li><a href="#">Jhon Simith</a></li>
                                 <li><a href="#">2 May, 2017</a></li>
                                 <li><a href="#">Latest News</a></li>
                             </ul>
                             <p>There are many variations of passages of Lorem is Ipsum available, but the majority have some suffered or alteration in  form, by injected randomised words which.</p>
-                            <a href="blog-details.php" class="readmore">Read More <i class="fa fa-angle-double-right"></i></a>
+                            <a href="blog-details.html" class="readmore">Read More <i class="fa fa-angle-double-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -512,14 +511,14 @@
                             <img src="assets/images/blog/1.jpg" alt="">
                         </div>
                         <div class="blog-content">
-                            <h3><a href="blog-details.php">Digital Marketo Launched Their Website</a></h3>
+                            <h3><a href="blog-details.html">Digital Marketo Launched Their Website</a></h3>
                             <ul>
                                 <li><a href="#">Jhon Simith</a></li>
                                 <li><a href="#">2 May, 2017</a></li>
                                 <li><a href="#">Latest News</a></li>
                             </ul>
                             <p>There are many variations of passages of Lorem is Ipsum available, but the majority have some suffered or alteration in  form, by injected randomised words which.</p>
-                            <a href="blog-details.php" class="readmore">Read More <i class="fa fa-angle-double-right"></i></a>
+                            <a href="blog-details.html" class="readmore">Read More <i class="fa fa-angle-double-right"></i></a>
                         </div>
                     </div>
                 </div>
